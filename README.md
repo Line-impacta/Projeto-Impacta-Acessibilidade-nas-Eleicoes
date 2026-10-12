@@ -18,7 +18,7 @@ O projeto foi desenvolvido seguindo a estrutura exigida de 3 camadas voltadas pa
   * Conexao do Power BI ao banco de dados SQLite.
   * Dashboard exibindo o total de secoes, proporcao de acessibilidade e o ranking dos 10 municipios com maior infraestrutura acessivel.
 
-* **📌 AC2: Analise Demografica de Deficiencias (Planejado)**
+* **📌 AC2: Analise Demografica de Deficiencias (Concluído)**
   * Inclusao e relacionamento da tabela perfil_eleitor_deficiencia_2026_SP.
   * Cruzamento de dados de infraestrutura com os tipos de deficiencia por municipio.
 
