@@ -11,7 +11,7 @@ O projeto foi desenvolvido seguindo a estrutura exigida de 3 camadas voltadas pa
 * **Back-end (ETL):** Extracao, tratamento e carga de arquivos CSV oficiais do TSE via scripts SQL no DB Browser.
 * **Front-end:** Power BI (Consumo direto do banco de dados e renderizacao de paineis interativos).
 
-## 🚀 Funcionalidades por Entrega (ACs)
+## 🚀   Funcionalidades por Entrega (ACs)
 
 * **📌 AC1: Visao Geral de Acessibilidade (Concluido)**
   * Criacao da modelagem relacional (eleitorado_local_votacao_2026_SP).
