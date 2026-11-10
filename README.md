@@ -22,7 +22,7 @@ O projeto foi desenvolvido seguindo a estrutura exigida de 3 camadas voltadas pa
   * Inclusao e relacionamento da tabela perfil_eleitor_deficiencia_2026_SP.
   * Cruzamento de dados de infraestrutura com os tipos de deficiencia por municipio.
 
-* **📌 AC3: Identificacao de Lacunas e Filtros Avancados (Planejado)**
+* **📌 AC3: Identificacao de Lacunas e Filtros Avancados (Concluído)**
   * Filtros interativos para destacar regioes com alta demanda e baixa infraestrutura.
 
 * **📌 Entrega Final: Mapa Geografico Interativo (Planejado)**
