@@ -25,7 +25,7 @@ O projeto foi desenvolvido seguindo a estrutura exigida de 3 camadas voltadas pa
 * **📌 AC3: Identificacao de Lacunas e Filtros Avancados (Concluido)**
   * Filtros interativos para destacar regioes com alta demanda e baixa infraestrutura.
 
-* **📌 Entrega Final: Mapa Geografico Interativo (Planejado)**
+* **📌 Entrega Final: Mapa Geografico Interativo (Concluido)**
   * Implementacao de visualizacao espacial para analise regional completa.
 
 ## 📂 Como executar o projeto
